@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
-  color: #172b4d;
-  background-color: #0279bf;
+  color: #1a4692;
+  background-color: #73b687;
   display: flex;
   align-items: start;
 }
@@ -16,7 +16,7 @@ div {
 }
 
 .title {
-  font-weight: 600;
+  font-weight: 900;
 }
 
 .editable {
@@ -36,11 +36,11 @@ div {
 }
 
 .editing:hover {
-  background: white !important;
+  background: rgb(242, 239, 239) !important;
 }
 
 .card {
-  background: white;
+  background: rgb(219, 252, 252);
   border-bottom: 1px solid #aaa;
 }
 
@@ -49,7 +49,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #dfe1e6;
+  background: #c0d5d4;
 }
 
 
